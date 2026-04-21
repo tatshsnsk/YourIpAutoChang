@@ -61,6 +61,11 @@ python yourip.py
 AUTO INSTALL ALL COMMAND SET SCRIPT ( PLEASE WAITING FOR ALL COMMAND DOWNLOD NOW ( 😍 ) 
 
 ---
+## WIFI SETUP 
+![image](https://github.com/tatshsnsk/YourIpAutoChang/raw/main/orca-image--608648029.jpeg.jpeg)
+
+---
+
 ## 🙋 Contact Author 
 
 - CHANDPUR CYBER TEAM
