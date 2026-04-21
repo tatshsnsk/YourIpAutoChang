@@ -68,6 +68,13 @@ AUTO INSTALL ALL COMMAND SET SCRIPT ( PLEASE WAITING FOR ALL COMMAND DOWNLOD NOW
 </p>
 
 ---
+## SIM SETUP 
+<p align="center">
+  <img src="https://github.com/tatshsnsk/YourIpAutoChang/raw/main/orca-image-665758321.jpeg.jpeg" width="200"/>
+  <img src="https://github.com/tatshsnsk/YourIpAutoChang/raw/main/orca-image-1051349431.jpeg.jpeg" width="200"/>
+</p>
+
+---
 
 ## 🙋 Contact Author 
 
