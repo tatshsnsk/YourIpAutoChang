@@ -63,7 +63,7 @@ AUTO INSTALL ALL COMMAND SET SCRIPT ( PLEASE WAITING FOR ALL COMMAND DOWNLOD NOW
 ---
 ## TOOLS SCREENSHOT
 
-![image](https://github.com/tatshsnsk/YourIpAutoChang/raw/main/orca-image-45093979.jpeg.jpeg)
+
 --
 
 ## 🙋 Contact Author 
