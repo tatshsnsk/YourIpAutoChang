@@ -62,7 +62,10 @@ AUTO INSTALL ALL COMMAND SET SCRIPT ( PLEASE WAITING FOR ALL COMMAND DOWNLOD NOW
 
 ---
 ## WIFI SETUP 
-![image](https://github.com/tatshsnsk/YourIpAutoChang/raw/main/orca-image--608648029.jpeg.jpeg)
+<p align="center">
+  <img src="https://github.com/tatshsnsk/YourIpAutoChang/raw/main/orca-image--608648029.jpeg.jpeg" width="200"/>
+  <img src="https://github.com/tatshsnsk/YourIpAutoChang/raw/main/orca-image-263950764.jpeg.jpeg" width="200"/>
+</p>
 
 ---
 
